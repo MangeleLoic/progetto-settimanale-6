@@ -13,20 +13,30 @@
 .genresBtn {
     transform: translateX(-10px);
 }
-footer {
+.footerHome {
     margin-top: 80px;
    margin-left: 130px;
 }
 footer button {
     width: 15%;
 }
-.footerBtn, .btn2 {
+.footerBtn {
     width: 12%;
 
 }
 .logoProfilo {
-    width: 8%;
+    width: 10%;
 }
-.lingua {
-width: 15%;
+.lingua, .btn2 {
+width: 27%;
 }
+.mainProfile {
+    margin-left: 220px;
+}
+.navProfile {
+    margin-left: 180px;
+ }
+ .footerProfile {
+    margin-left: 90px;
+ }
+ 
