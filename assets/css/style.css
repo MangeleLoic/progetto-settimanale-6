@@ -1,0 +1,26 @@
+.logoNetflix {
+    width: 5%;
+}
+.dimensioni {
+    font-size: smaller;
+}
+.similBtn {
+    width: 17%;
+    height: 80%;
+}
+
+
+.genresBtn {
+    transform: translateX(-10px);
+}
+footer {
+    margin-top: 80px;
+   margin-left: 130px;
+}
+footer button {
+    width: 15%;
+}
+.footerBtn {
+    width: 12%;
+
+}
