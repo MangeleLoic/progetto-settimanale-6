@@ -20,7 +20,13 @@ footer {
 footer button {
     width: 15%;
 }
-.footerBtn {
+.footerBtn, .btn2 {
     width: 12%;
+
+}
+.logoProfilo {
+    width: 8%;
+}
+.btn2 {
 
 }
